@@ -1,0 +1,136 @@
+.all{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    background-color: #353223;
+}
+body{
+    background-color: #353223;
+}
+
+.big{
+    display: flex;
+    align-self: center;
+    width: 75%;
+    height: 100%;
+    background-color: #353223;
+}
+
+.sting{
+    height: 175vh;
+    width: 10px;
+    background-color: #d0d0d0;
+}
+
+.mid{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-content: center;
+}
+h1 {
+    align-self: center;
+    color: #d0d0d0;
+}
+
+.corpo{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: space-around;
+}
+
+.lateral1{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    padding-left: 20px;
+}
+.lateral2{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    align-items: center;
+}
+
+.borda_desenho{
+    display: flex;
+    background-color: black;
+    border-radius: 30px;
+    align-content: center;
+    justify-content: center;
+    width: 80%;
+    justify-self: center;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.borda{
+    display: flex;
+    background-color: black;
+    border-radius: 30px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.desenho{
+    width: 90%;
+    border-radius: 30px;
+}
+
+.trt{
+    width: 35%;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+h4{
+    color: white;
+}
+
+.mini_desenho{
+    display: flex;
+    background-color: black;
+    border-radius: 30px;
+    align-content: center;
+    justify-content: center;
+    width: 80%;
+    justify-self: center;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    margin: 10px;
+}
+
+.imagem{
+    width: 50%;
+}
+
+.links{
+    width: 10%;
+    height: auto;
+}
+
+.linha{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    width: 50%;
+    background-color: #d0d0d0;
+    border-radius: 30px;
+}
+
+h2{
+    align-self: center;
+}
+
+.painel_central{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: space-around;
+}
+
+.imagem{
+    width: 100%;
+}
